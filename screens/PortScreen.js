@@ -45,12 +45,12 @@ export default function PortSensor({ navigation }) {
       </TouchableOpacity>
       </Animated.View>
       <View style={styles.mesure}>
-      <SemiCircleProgress
+      {/* <SemiCircleProgress
         percentage={30}
         progressColor={"red"}
       >
         <Text style={{ fontSize: 32, color: "white" }}>1243 kg</Text>
-      </SemiCircleProgress>
+      </SemiCircleProgress> */}
       </View>
       <Text style={styles.label}>You need to increase the tension in the port shroud ! </Text>
       <StatusBar style="inverted" />
