@@ -18,5 +18,3 @@ https://wiki.seeedstudio.com/XIAO-BLE-Sense-Bluetooth-Usage/
 
 You have amplifier documentation for the analog input. This documentation is in pdf format in this folder.
 
-
-I'm completely free if you need more info and I'd like to do a progress review over the phone after 2 hours of work to make sure we're moving in the right direction.
