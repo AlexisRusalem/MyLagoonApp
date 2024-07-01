@@ -51,12 +51,12 @@ export default function StarboardSensor({ navigation }) {
       </TouchableOpacity>
       </Animated.View>
       <View style={styles.mesure}>
-        {/* <SemiCircleProgress
+        { <SemiCircleProgress
          percentage={63}
          progressColor={"green"}
           >
           <Text style={{ fontSize: 32, color: "white" }}>2458 kg</Text>
-        </SemiCircleProgress> */}
+        </SemiCircleProgress> }
       </View>
       <Text style={styles.label}>Starboard shroud tension is perfect !</Text>
       <StatusBar style="inverted" />

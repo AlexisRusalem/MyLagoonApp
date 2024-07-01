@@ -1,10 +1,10 @@
 {
   "expo": {
     "name": "MyLagoon",
-    "slug": "mylagoon",
+    "slug": "soromapp",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/logo-crop.png",
     "userInterfaceStyle": "light",
     "splash": {
       "image": "./assets/splash.png",
@@ -30,9 +30,9 @@
     },
     "extra": {
       "eas": {
-        "projectId": "9f897993-02c9-407e-bc79-feeeed932434"
+        "projectId": "c6f73e17-16b9-4e38-befa-7291f6144bdb"
       }
     },
-    "owner": "melazur"
+    "owner": "mystreamapp"
   }
 }
